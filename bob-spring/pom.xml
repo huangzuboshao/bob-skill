@@ -6,8 +6,10 @@
 
     <groupId>com.bob.learn.springframework</groupId>
     <artifactId>bob-spring</artifactId>
-    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
     <modules>
         <module>spring-01</module>
         <module>spring-02</module>
