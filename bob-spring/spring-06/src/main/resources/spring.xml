@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beanas>
+    <bean id="memberService" name="" class="com.bob.learn.springframework.test.bean.MemberService"/>
+    <bean id="" name="userDao" class="com.bob.learn.springframework.test.bean.UserDao"/>
+
+
+    <bean id="userService" name="userService" class="com.bob.learn.springframework.test.bean.UserService1">
+        <property name="username" value="000002"></property>
+        <property name="userDao" ref="userDao"></property>
+    </bean>
+</beanas>
