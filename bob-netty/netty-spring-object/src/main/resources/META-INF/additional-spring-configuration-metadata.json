@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "netty.additionalMetaData",
+      "type": "java.lang.String",
+      "defaultValue": "啥也没有",
+      "description": "测试额外手动的additional-spring-configuration-metadata属性信息"
+    }
+  ]
+}
