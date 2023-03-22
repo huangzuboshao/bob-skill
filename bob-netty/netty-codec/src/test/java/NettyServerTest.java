@@ -1,5 +1,4 @@
 import com.bob.learn.netty.codec.MyChannelInitializer;
-import com.bob.learn.netty.codec.MyServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelOption;
