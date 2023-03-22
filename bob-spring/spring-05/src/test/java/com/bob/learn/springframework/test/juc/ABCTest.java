@@ -1,9 +1,5 @@
 package com.bob.learn.springframework.test.juc;
 
-import cn.hutool.core.thread.NamedThreadFactory;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.*;
 
 /**

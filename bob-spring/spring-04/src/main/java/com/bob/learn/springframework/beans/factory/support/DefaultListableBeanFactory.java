@@ -1,6 +1,5 @@
 package com.bob.learn.springframework.beans.factory.support;
 
-import com.bob.learn.springframework.beans.BeansException;
 import com.bob.learn.springframework.beans.factory.NoSuchBeanDefinitionException;
 import com.bob.learn.springframework.beans.factory.config.BeanDefinition;
 

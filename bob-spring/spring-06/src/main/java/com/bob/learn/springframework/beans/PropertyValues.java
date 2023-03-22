@@ -10,6 +10,7 @@ public interface PropertyValues {
 
     /**
      * 返回此对象中保存的 PropertyValue 对象的数组。
+     * @return
      */
     PropertyValue[] getPropertyValues();
 

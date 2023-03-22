@@ -7,7 +7,6 @@ import com.bob.learn.springframework.beans.PropertyValues;
 import com.bob.learn.springframework.beans.factory.config.BeanDefinition;
 import com.bob.learn.springframework.beans.factory.config.BeanReference;
 
-import java.beans.Introspector;
 import java.lang.reflect.Constructor;
 
 /**
